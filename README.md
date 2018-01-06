@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* This repository is made for the importatnt codes used frequently in PHP for making some tasks easier for other developers who are irritated by searching here and there for silly codes for PHP.
+* This repository is made for the important codes used frequently in PHP for making some tasks easier for other developers who are irritated by searching here and there for silly codes for PHP.
 * Version 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
